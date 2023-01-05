@@ -188,4 +188,23 @@ a {
     .cont {
         grid-template-columns: 1fr 1fr
     }
+
+    h1 {
+        width: 30%;
+        height: 150px;
+        font-size: 30px;
+        margin-top: 6%;
+        }
+
+    footer {
+        
+background-position: center;
+    background-size: cover;
+    height: 180px;
+    }
+
+.p-teacher, .p-alumn, .p-Date  {
+    margin: 5px;
+    padding:  5px;
+}
 }
